@@ -1,7 +1,9 @@
 package br.com.testes.component;
 
+import br.com.testes.component.configuration.AppConfig;
 import br.com.testes.component.interfaces.IEmployeeService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
 
 public class SpringDemo {
     public static void main(String[] args) {
