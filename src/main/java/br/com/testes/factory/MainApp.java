@@ -1,5 +1,6 @@
 package br.com.testes.factory;
 
+import br.com.testes.factory.configuration.AppConfig;
 import br.com.testes.factory.interfaces.ITextEditor;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

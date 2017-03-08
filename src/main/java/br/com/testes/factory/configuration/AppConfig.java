@@ -1,5 +1,7 @@
-package br.com.testes.factory;
+package br.com.testes.factory.configuration;
 
+import br.com.testes.factory.SpellChecker;
+import br.com.testes.factory.TextEditor;
 import br.com.testes.factory.interfaces.ISpellChecker;
 import br.com.testes.factory.interfaces.ITextEditor;
 import org.springframework.beans.factory.annotation.Autowired;

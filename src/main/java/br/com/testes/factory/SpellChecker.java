@@ -2,9 +2,9 @@ package br.com.testes.factory;
 
 import br.com.testes.factory.interfaces.ISpellChecker;
 
-class SpellChecker implements ISpellChecker {
+public class SpellChecker implements ISpellChecker {
 
-    SpellChecker() {
+    public SpellChecker() {
         System.out.println("Inside SpellChecker constructor.");
     }
 
